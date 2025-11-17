@@ -1,0 +1,13 @@
+{
+  "name": "aviator-telegram-sim",
+  "version": "1.0.0",
+  "description": "Simple Aviator simulator Telegram bot (demo/simulator)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "dotenv": "^16.0.3"
+  }
+}
